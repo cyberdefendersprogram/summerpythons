@@ -1,28 +1,8 @@
-This is simple discord bot which allows to student to ask get quiz questions.
+# Summer Pythons!
 
-# Usage
-In discord server
-```
-/quiz
-```
+[Course homepage](https://www.cyberdefendersprogram.com/cd-growthsector-python-academy/)
 
-# Installation
-Install dependecies:
-- Python 3.11+
-- Poetry
+This directory contains the resource used for teaching.
 
-From source directory run
-```
->export DISCORD_TOKEN='your token here'
->poetry run python bot.py
-```
-
-# Todo
-- Add interactivity to the quiz questions
-- Let users select the topic of the quiz questions
-- Add more questions to the quiz
-- Add ability to rate the questions
-- Add ability for users to submit their own quiz questions
-
-# Authors
-This bot was created by [Vaibhav Bhandari](mailto:vaibhavb@cyberdefendersprogram.com)
+* notebooks - all the google colab notebooks
+* projects - individual students projects
