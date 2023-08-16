@@ -1,4 +1,5 @@
 # Task Presets Program
+Refer to this link for an updated project: [https://github.com/Zenqrt/TaskPresets](url)
 
 ## Currently missing...
 * Settings window
